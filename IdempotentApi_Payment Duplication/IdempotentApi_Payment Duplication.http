@@ -1,0 +1,6 @@
+@IdempotentApi_Payment_Duplication_HostAddress = http://localhost:5049
+
+GET {{IdempotentApi_Payment_Duplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
